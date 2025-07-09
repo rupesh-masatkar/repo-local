@@ -8,4 +8,4 @@ this is 2nd file
 This is bug changes.
 
 ## 2nd Bug fix
-Bug fix for 2nd defect
+Bug fix for 2nd defect!
